@@ -1,0 +1,8 @@
+{
+  "name": "ion2-fullapp-ELITE",
+  "app_id": "8bf221c9",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
